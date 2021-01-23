@@ -1,4 +1,4 @@
 WorldUnited (This works, but with the source code of jlauncher);http://51.161.118.213:8080
 NightRiderz;http://horizon.nightriderz.world:8080
-World Evolved RU (Doesn't work);http://92.63.111.195:8680/soapbox-race-core
+World Evolved RU (Doesn't work sadly);http://92.63.111.195:8680/soapbox-race-core
 WorldOnlinePL;http://worldonline.pl:2137
