@@ -1,3 +1,2 @@
-WorldUnited (This works, but with the source code of jlauncher);http://51.161.118.213:8080
-NightRiderz(Bypassed server ban lmao);http://horizon.nightriderz.world:8080
-WorldOnline Beta (Formerly known as WorldOnlinePL);http://worldonline.pl:2137
+NightRiderz;http://horizon.nightriderz.world:8080
+WorldOnlinePL;http://worldonline.pl:2137
