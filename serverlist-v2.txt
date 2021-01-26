@@ -1,4 +1,4 @@
 NightRiderz;http://horizon.nightriderz.world:8080
 WorldOnlinePL;http://worldonline.pl:2137
 WorldUnited (Doesn't work);http://51.161.118.213:8080
-World Evolved RU (Also doesn't work);http://92.63.111.195:8680/soapbox-race-core/
+World Evolved RU (Also doesn't work);http://92.63.111.195:8680/soapbox-race-core
